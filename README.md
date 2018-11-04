@@ -1,2 +1,2 @@
-# 15-Modelos_ARCH_GARCH
-Modelos heterocedasticos 
+# Econometria-15
+Aula-15
